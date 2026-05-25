@@ -3,5 +3,3 @@
 .tool-versions
 .terragrunt-cache
 .terragrunt-stack
-infra
-.github
