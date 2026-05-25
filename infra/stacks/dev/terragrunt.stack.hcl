@@ -3,6 +3,6 @@ unit "lambda_code_bucket" {
   path   = "lambda-code-bucket"
 
   values = {
-    bucket_name_prefix = "lambda-code"
+    bucket_name_prefix = "lambda-code-abcd"
   }
 }
